@@ -17,5 +17,5 @@ La utilicé para realizar diferentes operaciones en los ejercicios. Como sus fun
 
 Por ejemplo, utilicé funciones como Math.PI, Math.pow() y Math.sqrt()
 
-[Para mas informacion de la clase Math picale aqui ---->](https://www.example.com)
+[Para mas informacion de la clase Math picale aqui ---->](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
