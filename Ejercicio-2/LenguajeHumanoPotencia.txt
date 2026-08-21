@@ -1,0 +1,6 @@
+1.Inicio
+2.Ingresa tu numero
+3.Ingresa la potencia que quieres elevar tu numero
+4.Se eleva el numero 
+5.Se muestra el resultado
+6.Fin
