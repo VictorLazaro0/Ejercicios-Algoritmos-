@@ -1,0 +1,6 @@
+1.Inicio
+2.Ingresa el numero que quieres calcular la raiz cuadrada
+3.Se lee el numero
+4.Se calcula la ruiz cuadrada
+5.Se muestra el resultado
+6.Fin
