@@ -1,0 +1,6 @@
+1.Inicio
+2.Ingresar numero 
+3.Leer numero
+4.Calcular resultado = Math.sqrt(numero)
+5.Resultado
+6.Fin
