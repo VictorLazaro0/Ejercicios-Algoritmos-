@@ -1,0 +1,8 @@
+1.Inicio
+2.Ingresa n1
+3.Leer el numero
+4.Ingresa n2
+5.Leer Numero
+6.Calcular potencia =  n1 ^ n2
+7.Se muestra el resultado
+8.Fin
