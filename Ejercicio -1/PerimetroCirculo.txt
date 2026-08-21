@@ -1,0 +1,6 @@
+1.Inicio
+2.Pedir el radio del circulo 
+3.Ingresar el radio del circulo
+4.Calcular el perimetro 
+5.Obtener Resultado y Mostralo
+6.Fin

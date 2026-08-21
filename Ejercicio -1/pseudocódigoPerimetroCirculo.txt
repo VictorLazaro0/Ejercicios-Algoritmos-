@@ -1,0 +1,5 @@
+1 .Inicio
+2.Ingresa el radio del circulo
+3.perimetro = 2 * PI * radio
+3.Mostrar perimetro del circulo
+4.Finin
